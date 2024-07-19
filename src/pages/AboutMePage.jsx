@@ -1,10 +1,6 @@
 import React from 'react';
 import AboutMe from '../components/AboutMe';
 
-const AboutMePage = () => (
-  <main>
-    <AboutMe />
-  </main>
-);
+const AboutMePage = () => <AboutMe />;
 
 export default AboutMePage;
