@@ -1,24 +1,21 @@
-/* Resume Styles */
 .resume {
-    text-align: center;
-    padding: 2rem;
-  }
-  
-  .resume a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  .resume a:hover {
-    text-decoration: underline;
-  }
-  
-  .resume ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .resume ul li {
-    margin: 0.5rem 0;
-  }
-  
+  text-align: center;
+}
+
+.resume a {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+.proficiencies {
+  list-style-type: none;
+  padding: 0;
+}
+
+.proficiencies li {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
