@@ -1,0 +1,14 @@
+/* Portfolio Styles */
+.portfolio {
+    padding: 2rem;
+  }
+  
+  .portfolio img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .portfolio .project {
+    margin-bottom: 2rem;
+  }
+  

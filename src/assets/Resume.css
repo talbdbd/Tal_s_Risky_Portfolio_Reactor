@@ -1,0 +1,24 @@
+/* Resume Styles */
+.resume {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .resume a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .resume a:hover {
+    text-decoration: underline;
+  }
+  
+  .resume ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resume ul li {
+    margin: 0.5rem 0;
+  }
+  

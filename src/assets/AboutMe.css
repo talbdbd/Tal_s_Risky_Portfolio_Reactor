@@ -1,0 +1,17 @@
+/* AboutMe Section Styles */
+.about-me {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .about-me img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .about-me p {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  

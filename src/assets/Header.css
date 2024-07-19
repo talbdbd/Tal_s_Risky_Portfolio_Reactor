@@ -1,0 +1,33 @@
+/* Header Styles */
+header {
+    background-color: #20232a;
+    color: white;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header nav {
+    margin-top: 0.5rem;
+  }
+  
+  header nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  header nav ul li {
+    margin: 0 1rem;
+  }
+  
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  header nav ul li.active a {
+    font-weight: bold;
+  }
+  
