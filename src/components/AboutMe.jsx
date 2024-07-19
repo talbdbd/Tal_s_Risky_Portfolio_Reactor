@@ -3,8 +3,12 @@ import '../assets/AboutMe.css';
 
 const AboutMe = () => (
   <section className="about-me">
-    <img src="/path-to-your-avatar.png" alt="Developer Avatar" />
-    <p>Hi! I'm a web developer with a passion for creating stunning and functional web applications. Welcome to my portfolio!</p>
+    <img src="../assets/images/portrait.png" alt="Developer Avatar" />
+    <p>Step into my Parlor!
+    <br></br>
+    I currently growing as a web develoer and I'm always looking forward to my next project.
+    <br></br>
+    Please feel free to reach out to with any inquiries!</p>
   </section>
 );
 

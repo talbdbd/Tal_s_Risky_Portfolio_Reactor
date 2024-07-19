@@ -9,7 +9,8 @@ const Resume = () => (
       <li>React</li>
       <li>Node.js</li>
       <li>MongoDB</li>
-      <li>CSS</li>
+      <li>MySQL</li>
+      <li>HTML/CSS</li>
     </ul>
   </section>
 );
