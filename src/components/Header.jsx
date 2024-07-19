@@ -4,7 +4,7 @@ import '../assets/Header.css';
 
 const Header = () => (
   <header>
-    <h1>My Portfolio</h1>
+    <h1>Tal's Coding Parlor</h1>
     <nav>
       <ul>
         <li><NavLink to="/" className="active">About Me</NavLink></li>

@@ -3,10 +3,10 @@ import '../assets/AboutMe.css';
 
 const AboutMe = () => (
   <section className="about-me">
-    <img src="../assets/images/portrait.png" alt="Developer Avatar" />
+    <img src="/images/portrait.png" alt="Developer Avatar" />
     <p>Step into my Parlor!
     <br></br>
-    I currently growing as a web develoer and I'm always looking forward to my next project.
+    I currently growing as a web developer and I'm always looking forward to my next project.
     <br></br>
     Please feel free to reach out to with any inquiries!</p>
   </section>
