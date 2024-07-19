@@ -1,5 +1,5 @@
 import React from 'react';
-import './Resume.css';
+import '../assets/Resume.css';
 
 const Resume = () => (
   <section className="resume">
