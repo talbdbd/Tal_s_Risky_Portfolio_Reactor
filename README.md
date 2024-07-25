@@ -23,8 +23,8 @@ Node is required to install all packages and run the server and client.
 ## Usage
 
 Take a look at my portfolio. Feel free to reach out.
-Link:
-![Screenshot](<imagepathway>)
+Link: https://main--unique-hamster-b7d707.netlify.app/
+![Screenshot](./public/images/screenshot.png)
 
 ## Credits
 
